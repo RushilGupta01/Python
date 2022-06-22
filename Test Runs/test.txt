@@ -1,0 +1,4 @@
+Python is an object oriented programming language.
+ This is text being appended to test.text
+ And another line here. 
+ We can add multiple line through the .writlines syntax.
