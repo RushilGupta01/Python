@@ -1,7 +1,7 @@
 import random
 from colorama import Fore
 
-print("\n---------- WELCOME TO CONNECT 4 ----------\n")
+print("\n🔵 🔵 🔵 WELCOME TO CONNECT 4 🟠 🟠 🟠\n")
 
 #Game Board:
 possibleLetters = ["A","B","C","D","E","F"]
